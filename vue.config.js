@@ -1,3 +1,3 @@
 module.exports = {
-publicPath: "leonov-evgeni-hemsida"
+publicPath: "evgenileonov"
 }
